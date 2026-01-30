@@ -1,28 +1,158 @@
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp",Web Tv Clássicos
-https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp",Tv Clássicos 
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp",Filmes Online 
-https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",Sony One Cinema
-https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp",CinePIX TV 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp",Runtime Ação 
-https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd6b5dd8f0aa8191dc9869fb54dc5886.webp",Runtime Ao Vivo
-https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp",Web Tv Cine
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp",Grjngo Ao Vivo
-https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcb3ff84b8f31ddc39ef213b42402f75.webp",Canal 29 Ao Vivo
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f46cc4e5dc24413f02ca28ab170fa77.webp",1980 Channel Ao Vivo
-https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp",AWTV Ao Vivo
-https://streaming.cloudecast.com/hls/awtv/index.m3u8
-
-
-
-
+[
+  {
+    "nome": "Web Tv Clássicos",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp",
+    "categoria": "TV Online"
+  },
+  {
+    "nome": "Tv Clássicos",
+    "url": "https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp",
+    "categoria": "TV Online"
+  },
+  {
+    "nome": "CinePIX TV",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp",
+    "categoria": "TV Online"
+  },
+  {
+    "nome": "Runtime Ao Vivo",
+    "url": "https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd6b5dd8f0aa8191dc9869fb54dc5886.webp",
+    "categoria": "TV Online"
+  },
+  {
+    "nome": "Grjngo Ao Vivo",
+    "url": "https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp",
+    "categoria": "TV Online"
+  },
+  {
+    "nome": "Canal 29 Ao Vivo",
+    "url": "https://stmv1.srvif.com/canal29/canal29/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcb3ff84b8f31ddc39ef213b42402f75.webp",
+    "categoria": "TV Online"
+  },
+  {
+    "nome": "1980 Channel Ao Vivo",
+    "url": "https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f46cc4e5dc24413f02ca28ab170fa77.webp",
+    "categoria": "TV Online"
+  },
+  {
+    "nome": "AWTV Ao Vivo",
+    "url": "https://streaming.cloudecast.com/hls/awtv/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp",
+    "categoria": "TV Online"
+  },
+  {
+    "nome": "Filmes Online",
+    "url": "https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp",
+    "categoria": "Filmes"
+  },
+  {
+    "nome": "Sony One Cinema",
+    "url": "https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp",
+    "categoria": "Filmes"
+  },
+  {
+    "nome": "Runtime Ação",
+    "url": "https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp",
+    "categoria": "Filmes"
+  },
+  {
+    "nome": "Web Tv Cine",
+    "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
+    "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp",
+    "categoria": "Filmes"
+  },
+  {
+    "nome": "Série Exemplo 1",
+    "url": "http://LINK_AQUI",
+    "logo": "https://i.imgur.com/q09OJRb.png",
+    "categoria": "Séries"
+  },
+  {
+    "nome": "Série Exemplo 2",
+    "url": "http://LINK_AQUI",
+    "logo": "https://i.imgur.com/q09OJRb.png",
+    "categoria": "Séries"
+  },
+  {
+    "nome": "Novela Exemplo 1",
+    "url": "http://LINK_AQUI",
+    "logo": "https://i.imgur.com/q09OJRb.png",
+    "categoria": "Novelas"
+  },
+  {
+    "nome": "Novela Exemplo 2",
+    "url": "http://LINK_AQUI",
+    "logo": "https://i.imgur.com/q09OJRb.png",
+    "categoria": "Novelas"
+  },
+  {
+    "nome": "Infantil Exemplo 1",
+    "url": "http://LINK_AQUI",
+    "logo": "https://i.imgur.com/q09OJRb.png",
+    "categoria": "Infantil"
+  },
+  {
+    "nome": "Infantil Exemplo 2",
+    "url": "http://LINK_AQUI",
+    "logo": "https://i.imgur.com/q09OJRb.png",
+    "categoria": "Infantil"
+  },
+  {
+    "nome": "Esportes Exemplo 1",
+    "url": "http://LINK_AQUI",
+    "logo": "https://i.imgur.com/q09OJRb.png",
+    "categoria": "Esportes"
+  },
+  {
+    "nome": "Esportes Exemplo 2",
+    "url": "http://LINK_AQUI",
+    "logo": "https://i.imgur.com/q09OJRb.png",
+    "categoria": "Esportes"
+  },
+  {
+    "nome": "Documentário Exemplo 1",
+    "url": "http://LINK_AQUI",
+    "logo": "https://i.imgur.com/q09OJRb.png",
+    "categoria": "Documentários"
+  },
+  {
+    "nome": "Documentário Exemplo 2",
+    "url": "http://LINK_AQUI",
+    "logo": "https://i.imgur.com/q09OJRb.png",
+    "categoria": "Documentários"
+  },
+  {
+    "nome": "Religioso Exemplo 1",
+    "url": "http://LINK_AQUI",
+    "logo": "https://i.imgur.com/q09OJRb.png",
+    "categoria": "Religiosos"
+  },
+  {
+    "nome": "Religioso Exemplo 2",
+    "url": "http://LINK_AQUI",
+    "logo": "https://i.imgur.com/q09OJRb.png",
+    "categoria": "Religiosos"
+  },
+  {
+    "nome": "Rádio Exemplo 1",
+    "url": "http://LINK_AQUI",
+    "logo": "https://i.imgur.com/q09OJRb.png",
+    "categoria": "Rádios"
+  },
+  {
+    "nome": "Rádio Exemplo 2",
+    "url": "http://LINK_AQUI",
+    "logo": "https://i.imgur.com/q09OJRb.png",
+    "categoria": "Rádios"
+  }
+]
