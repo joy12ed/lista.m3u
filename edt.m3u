@@ -1,6 +1,7 @@
 #EXTM3U
 
-# --- CANAIS DE TV (Categoria: TV ONLINE) ---
+# --- CATEGORIA: TV ONLINE ---
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="TV ONLINE",Web Tv Clássicos
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 
@@ -10,16 +11,53 @@ https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp" group-title="TV ONLINE",Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-# --- FILMES (Categoria: FILMES) ---
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="FILMES",Filmes Online 1
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd6b5dd8f0aa8191dc9869fb54dc5886.webp" group-title="TV ONLINE",Runtime Ao Vivo
+https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="TV ONLINE",Grjngo Ao Vivo
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcb3ff84b8f31ddc39ef213b42402f75.webp" group-title="TV ONLINE",Canal 29 Ao Vivo
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f46cc4e5dc24413f02ca28ab170fa77.webp" group-title="TV ONLINE",1980 Channel Ao Vivo
+https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp" group-title="TV ONLINE",AWTV Ao Vivo
+https://streaming.cloudecast.com/hls/awtv/index.m3u8
+
+
+# --- CATEGORIA: FILMES ---
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="FILMES",Filmes Online 
 https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="FILMES",Filmes Online 2
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="FILMES",CinePIX TV 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
-# --- SÉRIES (Categoria: SÉRIES) ---
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="FILMES",Runtime Ação 
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
+
+# --- CATEGORIA: SÉRIES (EXEMPLOS) ---
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q09OJRb.png" group-title="SÉRIES",Série Exemplo 1
-http://link_exemplo_serie_1.mp4
+http://link_da_serie_aqui.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q09OJRb.png" group-title="SÉRIES",Série Exemplo 2
-http://link_exemplo_serie_2.mp4
+http://link_da_serie_aqui.mp4
+
+
+# --- CATEGORIA: NOVELAS (EXEMPLOS) ---
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q09OJRb.png" group-title="NOVELAS",Novela Exemplo 1
+http://link_da_novela_aqui.mp4
+
+
+# --- CATEGORIA: INFANTIL (EXEMPLOS) ---
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5rgqF8K.png" group-title="INFANTIL",Desenho de Teste
+http://link_do_desenho.mp4
