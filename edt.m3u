@@ -41,9 +41,13 @@ https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES",Web Tv Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
-#EXTINF:-1, Shaolin Contra os 12 Homens de Aço
-plugin://plugin.video.youtube/play/?video_id=UFPg_0O56ZM
-
+<item>
+<title>BUILD TUGA BOX TV</title>
+<utube>gYnzpcdwSjY</utube>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<fanart>https://goo.gl/1y8V0J</fanart>
+<info>TEXTO DE SINOPSE.</info>
+</item>
 
 
 # --- CATEGORIA: SÉRIES (EXEMPLOS) ---
