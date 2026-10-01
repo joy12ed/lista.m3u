@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="TV ONLINE",Web Tv Clássicos
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp" group-title="TV ONLINE",Tv Clássicos 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp" group-title="TV ONLINE",Tv Clássicos
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp" group-title="TV ONLINE",Sony One Cinema
@@ -14,7 +14,7 @@ https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd6b5dd8f0aa8191dc9869fb54dc5886.webp" group-title="TV ONLINE",Runtime Ao Vivo
 https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="TV ONLINE",Grjngo Ao Vivo 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="TV ONLINE",Grjngo Ao Vivo
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcb3ff84b8f31ddc39ef213b42402f75.webp" group-title="TV ONLINE",Canal 29 Ao Vivo
@@ -29,76 +29,32 @@ https://awtv.nuvemplay.live/hls/stream.m3u8
 
 # --- CATEGORIA: FILMES ---
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="FILMES",Filmes Online 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="FILMES",Filmes Online
 https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="FILMES",CinePIX TV 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="FILMES",CinePIX TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="FILMES",Runtime Ação 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="FILMES",Runtime Ação
 https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES",Web Tv Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 
+# --- CATEGORIA: DESENHOS ---
 
-# --- CATEGORIA: SÉRIES (EXEMPLOS) ---
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q09OJRb.png" group-title="SÉRIES",Série Exemplo 1
-http://link_da_serie_aqui.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q09OJRb.png" group-title="SÉRIES",Série Exemplo 2
-http://link_da_serie_aqui.mp4
-
-
-# --- CATEGORIA: NOVELAS (EXEMPLOS) ---
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q09OJRb.png" group-title="NOVELAS",Novela Exemplo 1
-http://link_da_novela_aqui.mp4
-
-
-# --- CATEGORIA: INFANTIL (EXEMPLOS) ---
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbQIJk3tD7MwHLzMY-NlcQm3O1a2qj50PBnRNfgMsNFaPzUkQGVWDQcCg6_V6vg4mCQ31YgfA6ni-FKIIRaBjC8FSxV-IEDiKZTIr93qVZdbfuebt9YibwJSWCNBS40XuXR_SAtDFADfnWEUfqbRloiCe27rg0cyAMQ8QXzXBTAamjn-Yj_qcidM16l0/s200/RETR%C3%94%20CARTOON.webp" group-title="INFANTIL",RETRÔ CARTOON
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbQIJk3tD7MwHLzMY-NlcQm3O1a2qj50PBnRNfgMsNFaPzUkQGVWDQcCg6_V6vg4mCQ31YgfA6ni-FKIIRaBjC8FSxV-IEDiKZTIr93qVZdbfuebt9YibwJSWCNBS40XuXR_SAtDFADfnWEUfqbRloiCe27rg0cyAMQ8QXzXBTAamjn-Yj_qcidM16l0/s200/RETR%C3%94%20CARTOON.webp" group-title="Desenhos",RETRÔ CARTOON
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVtAhbAw_69snBAA7UpCUkKqVDG5OV8tMmHmUBbVDmKOxGIxUUAAgOQ94_-2sU294ixPlTbyThuuFLXagigS7bjyLWF9_RKHOQEOQhMiiiBPQixBUzB072s2jvvFafLxSNw-WlAn2ghK_aKRKUvfs5Yzl9oqk_WHV1n0L_rFeTu7q54oUtCL2tMzXd3lE/s200/MR%20BEAN.webp" group-title="INFANTIL",MR BEAN 2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVtAhbAw_69snBAA7UpCUkKqVDG5OV8tMmHmUBbVDmKOxGIxUUAAgOQ94_-2sU294ixPlTbyThuuFLXagigS7bjyLWF9_RKHOQEOQhMiiiBPQixBUzB072s2jvvFafLxSNw-WlAn2ghK_aKRKUvfs5Yzl9oqk_WHV1n0L_rFeTu7q54oUtCL2tMzXd3lE/s200/MR%20BEAN.webp" group-title="Desenhos",MR BEAN 2
 https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWzsaBbPTqt4Y65Q5dWlHOkqeTjU7YEbHGOSMzQVUqCxyFC9xHUo-7ZVK6Tzd1Ea_uDuF_cNEd94yD2t3MRv2XG9nHjqZ_OUy8O21z0h2gn83tfI1SMXb7lmYGgPF-NejpcZWOmlBqIT1nszsVfuTmNd5Gwm_AMGob8wIUDWsv7HvLgbNeKnjpzJRbzmc/s200/OTAKU%20SIGN%20TV.webp" group-title="INFANTIL",OTAKU SIGN TV
-https://stmv1.srvif.com/anime/anime/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPRtOG_rfdj021Qd3XXd9D-ssW4CH5As5lcBbch0o1678laIneMfrHmS3WsIyRaUX7nVWwiQHsCSfICMn4Rdq7ggMn0FOpnr7BNWCxqkvdvzfe1hG-KemIiAldQSKnLuPHjjdnrix_Dnj-ZJl-LlY4HlInAb7b7Bx00-wrGE_oQIfY-soYa2Vr2V9cy3Q/w200-h100/BOA%20ESPERAN%C3%87A%20WEBTV.webp" group-title="INFANTIL",BOA ESPERANÇA WEBTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPRtOG_rfdj021Qd3XXd9D-ssW4CH5As5lcBbch0o1678laIneMfrHmS3WsIyRaUX7nVWwiQHsCSfICMn4Rdq7ggMn0FOpnr7BNWCxqkvdvzfe1hG-KemIiAldQSKnLuPHjjdnrix_Dnj-ZJl-LlY4HlInAb7b7Bx00-wrGE_oQIfY-soYa2Vr2V9cy3Q/w200-h100/BOA%20ESPERAN%C3%87A%20WEBTV.webp" group-title="Desenhos",BOA ESPERANÇA WEBTV
 https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8
 
-# --- CATEGORIA: BBB26 --
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5rgqF8K.png" group-title="INFANTIL",Desenho de Teste
-http://link_do_desenho.mp4 
 
+# --- CATEGORIA: ANIME ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWzsaBbPTqt4Y65Q5dWlHOkqeTjU7YEbHGOSMzQVUqCxyFC9xHUo-7ZVK6Tzd1Ea_uDuF_cNEd94yD2t3MRv2XG9nHjqZ_OUy8O21z0h2gn83tfI1SMXb7lmYGgPF-NejpcZWOmlBqIT1nszsVfuTmNd5Gwm_AMGob8wIUDWsv7HvLgbNeKnjpzJRbzmc/s200/OTAKU%20SIGN%20TV.webp" group-title="Anime",OTAKU SIGN TV
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
