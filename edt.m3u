@@ -20,7 +20,7 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcb3ff84b8f31ddc39ef213b42402f75.webp" group-title="TV ONLINE",Canal 29 Ao Vivo
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f46cc4e5dc24413f02ca28ab170fa77.webp" group-title="TV ONLINE",1980 Channel Ao Vivo 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f46cc4e5dc24413f02ca28ab170fa77.webp" group-title="TV ONLINE",1980 Channel Ao Vivo
 https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp" group-title="TV ONLINE",AWTV Ao Vivo
@@ -44,17 +44,51 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 # --- CATEGORIA: DESENHOS ---
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbQIJk3tD7MwHLzMY-NlcQm3O1a2qj50PBnRNfgMsNFaPzUkQGVWDQcCg6_V6vg4mCQ31YgfA6ni-FKIIRaBjC8FSxV-IEDiKZTIr93qVZdbfuebt9YibwJSWCNBS40XuXR_SAtDFADfnWEUfqbRloiCe27rg0cyAMQ8QXzXBTAamjn-Yj_qcidM16l0/s200/RETR%C3%94%20CARTOON.webp" group-title="Desenhos",RETRÔ CARTOON
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLbQIJk3tD7MwHLzMY-NlcQm3O1a2qj50PBnRNfgMsNFaPzUkQGVWDQcCg6_V6vg4mCQ31YgfA6ni-FKIIRaBjC8FSxV-IEDiKZTIr93qVZdbfuebt9YibwJSWCNBS40XuXR_SAtDFADfnWEUfqbRloiCe27rg0cyAMQ8QXzXBTAamjn-Yj_qcidM16l0/s200/RETR%C3%94%20CARTOON.webp" group-title="DESENHOS",RETRÔ CARTOON
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVtAhbAw_69snBAA7UpCUkKqVDG5OV8tMmHmUBbVDmKOxGIxUUAAgOQ94_-2sU294ixPlTbyThuuFLXagigS7bjyLWF9_RKHOQEOQhMiiiBPQixBUzB072s2jvvFafLxSNw-WlAn2ghK_aKRKUvfs5Yzl9oqk_WHV1n0L_rFeTu7q54oUtCL2tMzXd3lE/s200/MR%20BEAN.webp" group-title="Desenhos",MR BEAN 2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVtAhbAw_69snBAA7UpCUkKqVDG5OV8tMmHmUBbVDmKOxGIxUUAAgOQ94_-2sU294ixPlTbyThuuFLXagigS7bjyLWF9_RKHOQEOQhMiiiBPQixBUzB072s2jvvFafLxSNw-WlAn2ghK_aKRKUvfs5Yzl9oqk_WHV1n0L_rFeTu7q54oUtCL2tMzXd3lE/s200/MR%20BEAN.webp" group-title="DESENHOS",MR BEAN 2
 https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPRtOG_rfdj021Qd3XXd9D-ssW4CH5As5lcBbch0o1678laIneMfrHmS3WsIyRaUX7nVWwiQHsCSfICMn4Rdq7ggMn0FOpnr7BNWCxqkvdvzfe1hG-KemIiAldQSKnLuPHjjdnrix_Dnj-ZJl-LlY4HlInAb7b7Bx00-wrGE_oQIfY-soYa2Vr2V9cy3Q/w200-h100/BOA%20ESPERAN%C3%87A%20WEBTV.webp" group-title="Desenhos",BOA ESPERANÇA WEBTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPRtOG_rfdj021Qd3XXd9D-ssW4CH5As5lcBbch0o1678laIneMfrHmS3WsIyRaUX7nVWwiQHsCSfICMn4Rdq7ggMn0FOpnr7BNWCxqkvdvzfe1hG-KemIiAldQSKnLuPHjjdnrix_Dnj-ZJl-LlY4HlInAb7b7Bx00-wrGE_oQIfY-soYa2Vr2V9cy3Q/w200-h100/BOA%20ESPERAN%C3%87A%20WEBTV.webp" group-title="DESENHOS",BOA ESPERANÇA WEBTV
 https://srv1.zcast.com.br/maciel1569/maciel1569/playlist.m3u8
 
 
 # --- CATEGORIA: ANIME ---
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWzsaBbPTqt4Y65Q5dWlHOkqeTjU7YEbHGOSMzQVUqCxyFC9xHUo-7ZVK6Tzd1Ea_uDuF_cNEd94yD2t3MRv2XG9nHjqZ_OUy8O21z0h2gn83tfI1SMXb7lmYGgPF-NejpcZWOmlBqIT1nszsVfuTmNd5Gwm_AMGob8wIUDWsv7HvLgbNeKnjpzJRbzmc/s200/OTAKU%20SIGN%20TV.webp" group-title="Anime",OTAKU SIGN TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWzsaBbPTqt4Y65Q5dWlHOkqeTjU7YEbHGOSMzQVUqCxyFC9xHUo-7ZVK6Tzd1Ea_uDuF_cNEd94yD2t3MRv2XG9nHjqZ_OUy8O21z0h2gn83tfI1SMXb7lmYGgPF-NejpcZWOmlBqIT1nszsVfuTmNd5Gwm_AMGob8wIUDWsv7HvLgbNeKnjpzJRbzmc/s200/OTAKU%20SIGN%20TV.webp" group-title="ANIME",OTAKU SIGN TV
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
+
+
+# --- CATEGORIA: CLÁSSICO ---
+
+#EXTINF:-1 tvg-logo="" group-title="CLÁSSICO",Exemplo Clássico
+https://exemplo.com/stream.m3u8
+
+
+# --- CATEGORIA: NOVELA ---
+
+#EXTINF:-1 tvg-logo="" group-title="NOVELA",Exemplo Novela
+https://exemplo.com/stream.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
