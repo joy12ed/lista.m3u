@@ -1,14 +1,11 @@
 #EXTM3U
 
-# --- CATEGORIA: TV ONLINE ---
-
 # --- CATEGORIA: YOUTUBE ---
 
 #EXTINF:-1 tvg-logo="https://img.youtube.com/vi/usM3yRGm8Gg/hqdefault.jpg" group-title="YouTube",Filme em Destaque
 https://www.youtube.com/watch?v=usM3yRGm8Gg
 
-#EXTINF:-1 tvg-logo="https://img.youtube.com/vi/usM3yRGm8Gg/hqdefault.jpg" group-title="YouTube",Filme em Destaque
-https://www.youtube.com/watch?v=darQ8PFa60
+# --- CATEGORIA: TV ONLINE ---
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="TV ONLINE",Web Tv Clássicos
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
