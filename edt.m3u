@@ -3,9 +3,6 @@
 
 # --- CATEGORIA: TV ONLINE --- #
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="TV ONLINE",Web Tv Clássicos
-https://srv3.zcast.com.br/classicosdocinema/classicosdocinema/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp" group-title="TV ONLINE",Tv Clássicos
 https://srv3.zcast.com.br/classicosdocinema/classicosdocinema/playlist.m3u8
 
