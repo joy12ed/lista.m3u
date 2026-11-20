@@ -27,6 +27,9 @@ https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp" group-title="TV ONLINE",AWTV Ao Vivo
 https://awtv.nuvemplay.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp" group-title="TV ONLINE",Rede Brasil de Televisão ao vivo
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+
 
 # --- CATEGORIA: FILMES ---
 
